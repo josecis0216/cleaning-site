@@ -48,4 +48,9 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+
+  env: {
+    baseUrl: process.env.BASE_URL || 'https://auroras-cleaning-default-rtdb.firebaseio.com',
+    fbAPIKey: 'AIzaSyCDAePRLQ3-41QNbfJ7bJoDrwijHTHGEMM'
+  },
 }
