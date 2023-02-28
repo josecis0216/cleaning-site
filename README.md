@@ -1,5 +1,9 @@
 # cleaning-site
 
+This site was intended for cleaning company, complete with database entries for requests sent by customers. Implemented is the ability
+to receive emails when a customer requests service, so the owner of the site will be notified that a customer has contacted them. CSS animations have
+been included to give the site a more user friendly feel, and the easy to navigate site will have customers coming back. 
+
 ## Build Setup
 
 ```bash
