@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'cleaning-site',
+    title: 'Aurora\'s Cleaning',
     htmlAttrs: {
       lang: 'en',
     },
@@ -12,7 +12,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-    link: [{ rel:"preconnect", href: "https://fonts.googleapis.com" }],
+    link: [{ rel: "preconnect", href: "https://fonts.googleapis.com" }],
     link: [{ rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: 'true' }],
     link: [{ href: "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap", rel: "stylesheet" }]
   },
