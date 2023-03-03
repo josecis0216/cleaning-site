@@ -15,25 +15,11 @@
           </div>
           <div class="col-sm-6">
             <h1 style="text-align: center">About Us</h1>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Accusantium voluptas accusamus iste iure possimus? Ipsa sequi
-              voluptates facere cupiditate magnam hic asperiores quod commodi
-              atque praesentium obcaecati quasi, eos aperiam!
-            </p>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col">
-            <p style="line-height: 0.5in">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti,
-              vel enim tempora asperiores laborum beatae earum a nisi explicabo,
-              quisquam eum assumenda veniam at distinctio obcaecati modi
-              voluptatem odio hic. Lorem ipsum, dolor sit amet consectetur
-              adipisicing elit. Reprehenderit officiis ad veritatis ea dolorem
-              vel commodi, fuga a odio error cum ratione explicabo distinctio
-              quasi unde qui! Consequuntur, ipsam dignissimos!
+            <p style="line-height: 0.5in;">
+              We are a family owned business that started cleaning commercial spaces in 2001. Ever since then, we haven't looked back,
+              and continue to increase our experience and reach out to companies with our helpful cleaning techniques that make employees
+              and customers excited to visit your building. Let us know how we can help keep your place comfortable for all and don't hesitate to 
+              reach out to us with any questions.
             </p>
           </div>
         </div>

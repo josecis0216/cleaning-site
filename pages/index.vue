@@ -6,10 +6,8 @@
         <div class="intro-section">
           <h1 class="title-tag">Your Commercial Cleaning Solution</h1>
           <p class="intro-text">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla sunt
-            nobis id commodi quasi suscipit, voluptatum exercitationem, quod
-            facilis, voluptas et quam. Sed facilis debitis numquam. Nemo veniam
-            corporis eos.
+            With over 20 years of cleaning experience, you can have comfort knowing that the job will be done quickly and
+            correctly. Don't hesitate to call now, or get free estimate today! 
           </p>
         </div>
       </div>
@@ -25,14 +23,14 @@
           style="width: 100%; height: 100%" />
       </div>
       <div class="col-sm-12 col-lg-6">
-        <div class="intro-section">
+        <div class="intro-section" style="margin-right: 100px;">
           <h1 class="title-tag">Peace of Mind Results</h1>
           <p class="intro-text">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla sunt
-            nobis id commodi quasi suscipit, voluptatum exercitationem, quod
-            facilis, voluptas et quam. Sed facilis debitis numquam. Nemo veniam
-            corporis eos.
+            Using the most up to date cleaning techniques, worry not, we will get every nook and cranny cleaned. We pride ourseleves
+            in doing the best work and never disappoint. Because of this we diligently check our work, and make sure your corporate space is
+            clean and welcoming for all your clients and employees. Check out our reviews if you don't believe us! Get a free estimate now! 
           </p>
+          <button class="btn-success"><nuxt-link to="/contact" style="font-size: 42px;text-decoration:none;color:white;">Free Estimate</nuxt-link></button>
         </div>
       </div>
     </div>
@@ -46,9 +44,8 @@
                 <img src="@/static/images/cleaning-wiping.png" alt="Avatar" style="width: 300px; height: 300px" />
               </div>
               <div class="flip-card-back">
-                <h1>John Doe</h1>
-                <p>Architect & Engineer</p>
-                <p>We love that guy</p>
+                <h1>Bathrooms, Kitchens, & More!</h1>
+                <p>We clean bathrooms, kitchens, and recreation areas</p>
               </div>
             </div>
           </div>
@@ -60,9 +57,8 @@
                 <img src="@/static/images/cleaning-mop.jpg" alt="Avatar" style="width: 300px; height: 300px" />
               </div>
               <div class="flip-card-back">
-                <h1>John Doe</h1>
-                <p>Architect & Engineer</p>
-                <p>We love that guy</p>
+                <h1>Efficient & Effective Cleaning</h1>
+                <p>Our cleaning results are sure to impress!</p>
               </div>
             </div>
           </div>
@@ -74,9 +70,8 @@
                 <img src="@/static/images/cleaning-dusting.jpg" alt="Avatar" style="width: 300px; height: 300px" />
               </div>
               <div class="flip-card-back">
-                <h1>John Doe</h1>
-                <p>Architect & Engineer</p>
-                <p>We love that guy</p>
+                <h1>20+ Years of Experience</h1>
+                <p>With our years of experience, we know what to look for to keep your work area clean and functional</p>
               </div>
             </div>
           </div>
@@ -92,18 +87,18 @@
       <b-row>
         <b-col>
           <ul class="home-list">
-            <li class="home-list-item">Salt Lake City</li>
             <li class="home-list-item">North Salt Lake</li>
+            <li class="home-list-item">Salt Lake City</li>
             <li class="home-list-item">Woodscross</li>
             <li class="home-list-item">Bountiful</li>
           </ul>
         </b-col>
         <b-col>
           <ul class="home-list">
-            <li class="home-list-item">Salt Lake City</li>
-            <li class="home-list-item">North Salt Lake</li>
-            <li class="home-list-item">Woodscross</li>
-            <li class="home-list-item">Bountiful</li>
+            <li class="home-list-item">Murray</li>
+            <li class="home-list-item">Sugarhouse</li>
+            <li class="home-list-item">Centerville</li>
+            <li class="home-list-item">Farmington</li>
           </ul>
         </b-col>
       </b-row>
@@ -115,7 +110,7 @@
         </b-col>
       </b-row>
 
-      <div class="row">
+      <div class="row" style="margin-bottom: 20px;">
         <div class="col-sm-6 col-lg-2 times">
           <p>Monday</p>
           <p>Tuesday</p>
@@ -135,10 +130,9 @@
           <p>Closed</p>
         </div>
         <div class="col-sm-12 col-lg-8">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.163210632271!2d-111.94409738493127!3d40.846340337323475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8752f72f0c94efb1%3A0x5af0d1e5121aff96!2s241%20Buckingham%20Dr%2C%20North%20Salt%20Lake%2C%20UT%2084054!5e0!3m2!1sen!2sus!4v1676484546855!5m2!1sen!2sus"
-            width="100%" height="100%" style="border: 0" allowfullscreen="" loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48292.02589930805!2d-111.95499247837375!3d40.8443991362183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8752f71d7f60bc5b%3A0x72295629e1a2a90!2sNorth%20Salt%20Lake%2C%20UT!5e0!3m2!1sen!2sus!4v1677803340496!5m2!1sen!2sus" 
+          width="100%" height="100%" style="border:0;margin-bottom:15px;" allowfullscreen="" loading="lazy" 
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
     </b-container>
@@ -217,6 +211,7 @@ export default {
   background-color: dodgerblue;
   color: white;
   transform: rotateY(180deg);
+  padding: 25px;
 }
 
 .home-list {
@@ -234,15 +229,15 @@ export default {
 
 #home-img,
 #home-img2 {
-  -webkit-animation: fadein 2s;
+  -webkit-animation: fadein 3s;
   /* Safari, Chrome and Opera > 12.1 */
-  -moz-animation: fadein 2s;
+  -moz-animation: fadein 3s;
   /* Firefox < 16 */
-  -ms-animation: fadein 2s;
+  -ms-animation: fadein 3s;
   /* Internet Explorer */
-  -o-animation: fadein 2s;
+  -o-animation: fadein 3s;
   /* Opera < 12.1 */
-  animation: fadein 2s;
+  animation: fadein 3s;
 }
 
 @keyframes fadein {
