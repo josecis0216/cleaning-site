@@ -6,10 +6,8 @@
         <div class="col">
           <div style="max-width: 44rem; margin: 10px auto">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-              ipsum ex accusamus ullam aliquam, dolore commodi! Quisquam eius, vel in
-              officia doloremque a excepturi fugit quia voluptates sint eaque
-              perferendis?
+              Please use this form to get in contact with us. We will typically respond between 1-3 business days. 
+              Also, please include an estimate of the sq footage you need cleaned. Thank you for reaching out to us! 
             </p>
           </div>
         </div>
